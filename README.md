@@ -41,10 +41,10 @@ https://github.com/m0nac0/flutter-maplibre-gl
 - [maplibre-gl-vector-text-protocol](https://github.com/jimmyrocks/maplibre-gl-vector-text-protocol) - Supports `CSV`, `TSV`, `Topojson`, `KML`, `GPX`, and `TCX` formats using the addProtocol feature.
 
 ## Users
-
-- [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
+- [Clockwork Micro](https://www.clockworkmicro.com/), a provider of geospatial mircorservices, uses MapLibre.
 - [Israel Hiking Map](https://israelhiking.osm.org.il) has maps, route planning, and travel information for Israel. Migrated to [Maplibre](https://github.com/IsraelHikingMap/Site/issues/1532).
+- [Kibana](https://github.com/elastic/kibana#kibana), a browser-based analytics and search dashboard for Elasticsearch has migrated to [MapLibre](https://github.com/elastic/kibana/issues/108742)
+- NZ’s authoritative and open digital [basemap service](https://github.com/linz/basemaps) for LINZ and the public is using [MapLibre](https://github.com/linz/basemaps/pull/1689)
 - [OpenStreetMap Americana Style](https://github.com/ZeLonewolf/openstreetmap-americana#openstreetmap-americana-style) - A quintessentially American map style, powered by [MapLibre](https://github.com/ZeLonewolf/openstreetmap-americana#technology-stack)
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
-- NZ’s authoritative and open digital [basemap service](https://github.com/linz/basemaps) for LINZ and the public is using [MapLibre](https://github.com/linz/basemaps/pull/1689)
 - [Vremenar Weather](https://vremenar.tano.si), a cross-platform app to display weather conditions and forecast on a map. Using MapLibre GL Native.
